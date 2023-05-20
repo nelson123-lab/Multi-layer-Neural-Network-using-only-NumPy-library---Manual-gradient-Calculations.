@@ -1,3 +1,5 @@
 # Multi-layer-Neural-Network-using-only-only-NumPy-library---Manual-gradient-Calculations.
 
-This is the part of Neural Network course work. Due to academic integrity the code cannot be posted here. I am explaining the implementation method soon.
+## Note
+
+This repository serves as a demonstration of my work for the Neural Network coursework. Kindly refrain from using the exact code provided here in any academic assignments. Its purpose is to provide a reference and facilitate learning for others.
